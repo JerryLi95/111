@@ -13,5 +13,5 @@
         "changelog": "conventional-changelog -p angular -i CHANGELOG.md -w -r 0",
         "release": "standard-version"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
